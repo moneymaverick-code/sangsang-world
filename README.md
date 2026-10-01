@@ -8,4 +8,4 @@
 이 저장소에는 게임 받기 파일만 있어요(게임 코드는 없어요).
 
 - 갤럭시(안드로이드): [Releases](../../releases/latest) 의 `sangsang-world.apk`
-- PC(윈도우): 준비 중
+- PC(윈도우 10·11): [Releases](../../releases/latest) 의 `sangsang-world-setup.exe` (받아서 실행하면 설치돼요)
